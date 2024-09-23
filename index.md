@@ -1,4 +1,4 @@
-# I am very confused
+# GitHub Basic Training
 
 # Yaktocat Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
